@@ -1,0 +1,8 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+# - title: Insta
+#   url: 
+- title: Search
+  url: /search/
